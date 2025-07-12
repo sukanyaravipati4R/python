@@ -1,0 +1,50 @@
+[
+    {
+        "question":"What is the capital of France? ",
+        "options":{"1":"paris","2":"rome","3":"london","4":"washington"},
+        "answer":"1"
+    },
+    {
+        "question":"What is the Largest desert in world?",
+        "options":{"1":"thar","2":"kalahari","3":"amazon","4":"sahara"},
+        "answer":"4"
+    },
+    {
+        "question":"What is the Longest river in india?",
+        "options":{"1":"yamuna","2":"kaveri","3":"bramhaputra","4":"ganga"},
+        "answer":"4"
+    },
+    {
+        "question":"Which country is known as the Land of the Rising Sun?",
+        "options":{"1":"china","2":"korea","3":"japan","4":"nepal"},
+        "answer":"3"
+    },
+    {
+        "question":"What is the smallest country in the world?",
+        "options":{"1":"Monaco","2":"vaticancity","3":"san marino","4":"nauru"},
+        "answer":"2"
+    },
+    {
+        "question":"Which ocean is the deepest?",
+        "options":{"1":"pacific","2":"altantic","3":"artic","4":"indian"},
+        "answer":"1"
+    },
+    {
+        "question":"Which is the only continent without a desert?",
+        "options":{"1":"austraila","2":"america","3":"europe","4":"Asia"},
+        "answer":"3"
+    },{
+        "question":"Which continent is known as the Dark Continent?",
+        "options":{"1":"Asia","2":"America","3":"Europe","4":"Africa"},
+        "answer":"4"
+    },
+    {
+        "question":"Which city is known as the City of Love?",
+        "options":{"1":"venice","2":"paris","3":"rome","4":"athens"},
+        "answer":"2"
+    },{
+        "question":"What is the largest country in South America?",
+        "options":{"1":"Argentina","2":"chile","3":"colombia","4":"Brazil"},
+        "answer":"4"
+    }
+]
